@@ -7,4 +7,5 @@ langchain-core
 langchain-openai
 langchain-community
 chromadb
+seaborn
 python-dotenv
