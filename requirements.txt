@@ -1,0 +1,10 @@
+streamlit
+pandas
+numpy
+pandasql
+matplotlib
+langchain-core
+langchain-openai
+langchain-community
+chromadb
+python-dotenv
