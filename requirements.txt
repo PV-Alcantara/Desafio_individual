@@ -9,3 +9,5 @@ langchain-community
 chromadb
 seaborn
 python-dotenv
+langchain_chroma
+
